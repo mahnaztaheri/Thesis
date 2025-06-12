@@ -1,2 +1,2 @@
 # Thesis
-This repository contains the collection of my codes for the thesis. 
+This repository contains a collection of my code for the thesis. The thesis is about a systematic comparison of approaches in disease concept recognition, in which I have tested four approaches to perform the Named Entity Recognition task. For each approach, a model is tested to evaluate its performance: OGER for the dictionary-based approach, SciapaCy for the deep learning-based approach, Phenotagger for the hybrid approach, and ChatGPT for the prompt-based approach. At the end of each model, it is evaluated via Precision, Recall, and F1 score based on two matching strategies: partial and exact matching.
