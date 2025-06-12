@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9848786</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Human complement factor H deficiency associated with hemolytic uremic syndrome. This study reports on six cases of deficiency in the human complement regulatory protein Factor H (FH) in the context of an acute renal disease. Five of the cases were observed in children presenting with idiopathic hemolytic uremic syndrome (HUS). Two of the children exhibited a homozygous deficiency characterized by the absence of the 150-kD form of Factor H and the presence, upon immunoblotting, of the 42-kD Factor H-like protein 1 (FHL-1) and other FH-related protein (FHR) bands. Southern blot and PCR analysis of DNA of one patient with homozygous deficiency ruled out the presence of a large deletion of the FH gene as the underlying defect for the deficiency. The other four children presented with heterozygous deficiency and exhibited a normal immunoblotting pattern of proteins of the FH family. Factor H deficiency is the only complement deficiency associated with HUS. These observations suggest a role for FH and/or FH receptors in the pathogenesis of idiopathic HUS..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="106" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="237" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Lymphohistiocytosis, Hemophagocytic</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D051359</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="520" length="3"/>
+        <text>FHL</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Lymphohistiocytosis, Hemophagocytic</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D051359</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="520" length="5"/>
+        <text>FHL-1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

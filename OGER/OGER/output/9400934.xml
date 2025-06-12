@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9400934</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>The RB1 gene mutation in a child with ectopic intracranial retinoblastoma. The RB1 gene mutation was investigated in a child with ectopic intracranial retinoblastoma using DNA obtained from both the pineal and retinal tumours of the patient. A nonsense mutation in exon 17 (codon 556) of the RB1 gene was found to be present homozygously in both the retinal and the pineal tumours. The same mutation was present heterozygously in the DNA from the constitutional cells of the patient, proving it to be of germline origin. The initial mutation was shown to have occurred in the paternally derived RB1 allele. The mutation is in an area of the gene that encodes the protein-binding region known as the pocket region and has been detected in other cases of retinoblastoma..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Retinoblastoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D012175</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="4" length="3"/>
+        <text>RB1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Retinoblastoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D012175</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="79" length="3"/>
+        <text>RB1</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="97" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Retinoblastoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D012175</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="292" length="3"/>
+        <text>RB1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="301" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="400" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="542" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Retinoblastoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D012175</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="595" length="3"/>
+        <text>RB1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="744" length="5"/>
+        <text>cases</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

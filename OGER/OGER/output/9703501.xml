@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9703501</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>BRCA1 required for transcription-coupled repair of oxidative DNA damage. The breast and ovarian cancer susceptibility gene BRCA1 encodes a zinc finger protein of unknown function. Association of the BRCA1 protein with the DNA repair protein Rad51 and changes in the phosphorylation and cellular localization of the protein after exposure to DNA-damaging agents are consistent with a role for BRCA1 in DNA repair. Here, it is shown that mouse embryonic stem cells deficient in BRCA1 are defective in the ability to carry out transcription-coupled repair of oxidative DNA damage, and are hypersensitive to ionizing radiation and hydrogen peroxide. These results suggest that BRCA1 participates, directly or indirectly, in transcription-coupled repair of oxidative DNA damage..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Dyschromatosis symmetrica hereditaria 1</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C535729</infon>
+        <infon key="umls_cui">C0406775</infon>
+        <location offset="241" length="3"/>
+        <text>Rad</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Abetalipoproteinemia</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000012</infon>
+        <infon key="umls_cui">C0000744</infon>
+        <location offset="503" length="7"/>
+        <text>ability</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

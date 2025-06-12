@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9358014</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Ethnic differences in the HFE codon 282 (Cys/Tyr) polymorphism. Recent studies have shown that hereditary hemochromatosis (HH) is likely to be caused by homozygosity for a Cys282Tyr mutation in the HFE gene located 4. 5 Mb telomeric to HLA-A. Population studies of this polymorphism are facilitated by the fact that the Cys282Tyr mutation creates a Rsal restriction site. We have studied the codon 282 (Cys/Tyr) polymorphism in different ethnic groups. In agreement with previous observations the Tyr allele appeared to be rare or absent in Asiatic (Indian, Chinese) populations. The highest allele frequency (7. 5%) was found in Swedes. Saamis (2%) and Mordvinians (1. 8%) had significantly lower frequencies of the Tyr allele. Comparisons with allele frequencies based on prevalence estimates of HH showed some disagreements with the RFLP data, particularly in Finns. The newly described HFE marker provides a new approach to the screening of HH as well as studies of the relationship between the HFE Tyr allele and different disorders including cancer</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Hemochromatosis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D006432</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="26" length="3"/>
+        <text>HFE</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Hemochromatosis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D006432</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="198" length="3"/>
+        <text>HFE</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="617" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Hemochromatosis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D006432</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="890" length="3"/>
+        <text>HFE</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Hemochromatosis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D006432</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="999" length="3"/>
+        <text>HFE</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9800909</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Are Dp71 and Dp140 brain dystrophin isoforms related to cognitive impairment in Duchenne muscular dystrophy? Molecular study and neuropsychological analysis were performed concurrently on 49 patients with Duchenne muscular dystrophy (DMD) in order to find a molecular explanation for the cognitive impairment observed in most DMD patients. Complete analysis of the dystrophin gene was performed to define the localization of deletions and duplications in relation to the different DMD promoters. Qualitative analysis of the Dp71 transcript and testing for the specific first exon of Dp140 were also carried out. Neuropsychological analysis assessed verbal and visuospatial intelligence, verbal memory, and reading skills. Comparison of molecular and psychometric findings demonstrated that deletions and duplications that were localized in the distal part of the gene seemed to be preferentially associated with cognitive impairment. Two altered Dp71 transcripts and two deleted Dp140 DNA sequences were found in four patients with severe cerebral dysfunction. These findings suggest that some sequences located in the distal part of the gene and, in particular, some DMD isoforms expressed in the brain may be related to the cognitive impairment associated with DMD..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="234" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="326" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="381" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="481" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1168" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1263" length="3"/>
+        <text>DMD</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

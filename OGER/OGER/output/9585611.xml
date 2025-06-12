@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9585611</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Genotype-phenotype correlations in attenuated adenomatous polyposis coli. Germ-line mutations of the tumor suppressor APC are implicated in attenuated adenomatous polyposis coli (AAPC), a variant of familial adenomatous polyposis (FAP). AAPC is recognized by the occurrence of &lt; 100 colonic adenomas and a later onset of colorectal cancer (age &gt; 40 years). The aim of this study was to assess genotype-phenotype correlations in AAPC families. By protein-truncation test (PTT) assay, the entire coding region of the APC gene was screened in affected individuals from 11 AAPC kindreds, and their phenotypic differences were examined. Five novel germ-line APC mutations were identified in seven kindreds. Mutations were located in three different regions of the APC gene  (1) at the 5 end spanning exons 4 and 5, (2) within exon 9, and (3) at the 3 distal end of the gene. Variability in the number of colorectal adenomas was most apparent in individuals with mutations in region 1, and upper-gastrointestinal manifestations were more severe in them. In individuals with mutations in either region 2 or region 3, the average number of adenomas tended to be lower than those in individuals with mutations in region 1, although age at diagnosis was similar. In all AAPC kindreds, a predominance of right-sided colorectal adenomas and rectal polyp sparing was observed. No desmoid tumors were found in these kindreds. Our data suggest that, in AAPC families, the location of the APC mutation may partially predict specific phenotypic expression. This should help in the design of tailored clinical-management protocols in this subset of FAP patients..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="118" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Amyloidosis, Hereditary, Transthyretin-Related</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567782</infon>
+        <infon key="umls_cui">C2751492</infon>
+        <location offset="231" length="3"/>
+        <text>FAP</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000236</infon>
+        <infon key="umls_cui">C0001430</infon>
+        <location offset="291" length="8"/>
+        <text>adenomas</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="379" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="515" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="524" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="653" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="759" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000236</infon>
+        <infon key="umls_cui">C0001430</infon>
+        <location offset="910" length="8"/>
+        <text>adenomas</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="919" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000236</infon>
+        <infon key="umls_cui">C0001430</infon>
+        <location offset="1132" length="8"/>
+        <text>adenomas</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1240" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Sudden Infant Death</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013398</infon>
+        <infon key="umls_cui">C0038644</infon>
+        <location offset="1299" length="5"/>
+        <text>sided</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000236</infon>
+        <infon key="umls_cui">C0001430</infon>
+        <location offset="1316" length="8"/>
+        <text>adenomas</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Polyps</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011127</infon>
+        <infon key="umls_cui">C0032584</infon>
+        <location offset="1336" length="5"/>
+        <text>polyp</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1350" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1473" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Amyloidosis, Hereditary, Transthyretin-Related</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567782</infon>
+        <infon key="umls_cui">C2751492</infon>
+        <location offset="1631" length="3"/>
+        <text>FAP</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

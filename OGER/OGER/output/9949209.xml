@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9949209</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Genetic mapping of the copper toxicosis locus in Bedlington terriers to dog chromosome 10, in a region syntenic to human chromosome region 2p13-p16. Abnormal hepatic copper accumulation is recognized as an inherited disorder in man, mouse, rat and dog. The major cause of hepatic copper accumulation in man is a dysfunctional ATP7B gene, causing Wilson disease (WD). Mutations in the ATP7B genes have also been demonstrated in mouse and rat. The ATP7B gene has been excluded in the much rarer human copper overload disease non-Indian childhood cirrhosis, indicating genetic heterogeneity. By investigating the common autosomal recessive copper toxicosis (CT) in Bedlington terriers, we have identified a new locus involved in progressive liver disease. We examined whether the WD gene ATP7B was also causative for CT by investigating the chromosomal co-localization of ATP7B and C04107, using fluorescence in situ hybridization (FISH). C04107 is an anonymous microsatellite marker closely linked to CT. However, BAC clones containing ATP7B and C04107 mapped to the canine chromosome regions CFA22q11 and CFA10q26, respectively, demonstrating that WD cannot be homologous to CT. The copper transport genes CTR1 and CTR2 were also excluded as candidate genes for CT since they both mapped to canine chromosome region CFA11q22. 2-22. 5. A transcribed sequence identified from the C04107-containing BAC was found to be homologous to a gene expressed from human chromosome 2p13-p16, a region devoid of any positional candidate genes.</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="791" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1399" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

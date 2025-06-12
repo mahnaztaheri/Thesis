@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9792861</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Founder BRCA1 and BRCA2 mutations in French Canadian breast and ovarian cancer families. We have identified four mutations in each of the breast cancer-susceptibility genes, BRCA1 and BRCA2, in French Canadian breast cancer and breast/ovarian cancer families from Quebec. To identify founder effects, we examined independently ascertained French Canadian cancer families for the distribution of these eight mutations. Mutations were found in 41 of 97 families. Six of eight mutations were observed at least twice. The BRCA1 C4446T mutation was the most common mutation found, followed by the BRCA2 8765delAG mutation. Together, these mutations were found in 28 of 41 families identified to have a mutation. The odds of detection of any of the four BRCA1 mutations was 18. 7x greater if one or more cases of ovarian cancer were also present in the family. The odds of detection of any of the four BRCA2 mutations was 5. 3x greater if there were at least five cases of breast cancer in the family. Interestingly, the presence of a breast cancer case &lt; 36 years of age was strongly predictive of the presence of any of the eight mutations screened. Carriers of the same mutation, from different families, shared similar haplotypes, indicating that the mutant alleles were likely to be identical by descent for a mutation in the founder population. The identification of common BRCA1 and BRCA2 mutations will facilitate carrier detection in French Canadian breast cancer and breast/ovarian cancer families.</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="540" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="764" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="798" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="912" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="958" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1043" length="4"/>
+        <text>case</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1066" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9731533</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>The APCI1307K allele and cancer risk in a community-based study of Ashkenazi Jews. Mutations in APC are classically associated with familial adenomatous polyposis (FAP), a highly penetrant autosomal dominant disorder characterized by multiple intestinal polyps and, without surgical intervention, the development of colorectal cancer (CRC). APC is a tumour-suppressor gene, and somatic loss occurs in tumours. The germline T-to-A transversion responsible for the APC I1307K allele converts the wild-type sequence to a homopolymer tract (A8) that is genetically unstable and prone to somatic mutation. The I1307K allele was found in 6. 1% of unselected Ashkenazi Jews and higher proportions of Ashkenazim with family or personal histories of CRC (ref. 2). To evaluate the role of I1307K in cancer, we genotyped 5, 081 Ashkenazi volunteers in a community survey. Risk of developing colorectal, breast and other cancers were compared between genotyped I1307K carriers and non-carriers and their first-degree relatives.</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="4" length="4"/>
+        <text>APCI</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="96" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Amyloidosis, Hereditary, Transthyretin-Related</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567782</infon>
+        <infon key="umls_cui">C2751492</infon>
+        <location offset="164" length="3"/>
+        <text>FAP</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Polyps</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011127</infon>
+        <infon key="umls_cui">C0032584</infon>
+        <location offset="254" length="6"/>
+        <text>polyps</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Colorectal Neoplasms</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D015179</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="335" length="3"/>
+        <text>CRC</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="341" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="463" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="619" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Colorectal Neoplasms</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D015179</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="741" length="3"/>
+        <text>CRC</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

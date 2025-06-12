@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9949197</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Distribution of emerin and lamins in the heart and implications for Emery-Dreifuss muscular dystrophy. Emerin is a nuclear membrane protein which is missing or defective in Emery-Dreifuss muscular dystrophy (EDMD). It is one member of a family of lamina-associated proteins which includes LAP1, LAP2 and lamin B receptor (LBR). A panel of 16 monoclonal antibodies (mAbs) has been mapped to six specific sites throughout the emerin molecule using phage-displayed peptide libraries and has been used to localize emerin in human and rabbit heart. Several mAbs against different emerin epitopes did not recognize intercalated discs in the heart, though they recognized cardiomyocyte nuclei strongly, both at the rim and in intranuclear spots or channels. A polyclonal rabbit antiserum against emerin did recognize both nuclear membrane and intercalated discs but, after affinity purification against a pure-emerin band on a western blot, it stained only the nuclear membrane. These results would not be expected if immunostaining at intercalated discs were due to a product of the emerin gene and, therefore, cast some doubt upon the hypothesis that cardiac defects in EDMD are caused by absence of emerin from intercalated discs. Although emerin was abundant in the membranes of cardiomyocyte nuclei, it was absent from many non-myocyte cells in the heart. This distribution of emerin was similar to that of lamin A, a candidate gene for an autosomal form of EDMD. In contrast, lamin B1 was absent from cardiomyocyte nuclei, showing that lamin B1 is not essential for localization of emerin to the nuclear lamina. Lamin B1 is also almost completely absent from skeletal muscle nuclei. In EDMD, the additional absence of lamin B1 from heart and skeletal muscle nuclei which already lack emerin may offer an alternative explanation of why these tissues are particularly affected..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Laryngeal Adductor Paralysis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C562861</infon>
+        <infon key="umls_cui">C0396060</infon>
+        <location offset="289" length="3"/>
+        <text>LAP</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Laryngeal Adductor Paralysis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C562861</infon>
+        <infon key="umls_cui">C0396060</infon>
+        <location offset="295" length="3"/>
+        <text>LAP</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1243" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1301" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1382" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1484" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

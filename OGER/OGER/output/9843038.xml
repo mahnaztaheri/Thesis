@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9843038</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Identification of a novel mutation of the CPO gene in a Japanese hereditary coproporphyria family. Hereditary coproporphyria (HCP) is an autosomal dominant disease characterized by a deficiency of coproporphyrinogen oxidase (CPO) caused by a mutation in the CPO gene. Only 11 mutations of the gene have been reported in HCP patients. We report another mutation in a Japanese family. Polymerase chain reaction-single strand conformational polymorphism and direct sequence analyses demonstrated a C to T substitution in exon 1 of the CPO gene at nucleotide position 85, which lies in the putative presequence for targeting to mitochondria. This mutation changes the codon for glutamine to a termination codon at amino acid position 29. MaeI restriction analysis showed two other carriers in the family. The C-T mutation is located within a recently proposed putative alternative translation initiation codon (TIC-1), supporting that TIC-1 is the real TIC rather than TIC-2..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Coproporphyria, Hereditary</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D046349</infon>
+        <infon key="umls_cui">C0162531</infon>
+        <location offset="126" length="3"/>
+        <text>HCP</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Coproporphyria, Hereditary</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D046349</infon>
+        <infon key="umls_cui">C0162531</infon>
+        <location offset="320" length="3"/>
+        <text>HCP</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">MYOCLONIC-ATONIC EPILEPSY</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">616421</infon>
+        <infon key="umls_cui">C4085238</infon>
+        <location offset="734" length="4"/>
+        <text>MaeI</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Tics</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020323</infon>
+        <infon key="umls_cui">C0278076</infon>
+        <location offset="907" length="3"/>
+        <text>TIC</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Tics</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020323</infon>
+        <infon key="umls_cui">C0278076</infon>
+        <location offset="931" length="3"/>
+        <text>TIC</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Tics</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020323</infon>
+        <infon key="umls_cui">C0278076</infon>
+        <location offset="949" length="3"/>
+        <text>TIC</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Tics</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020323</infon>
+        <infon key="umls_cui">C0278076</infon>
+        <location offset="965" length="3"/>
+        <text>TIC</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

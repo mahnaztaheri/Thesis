@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9618166</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Two frequent missense mutations in Pendred syndrome. Pendred syndrome is an autosomal recessive disorder characterized by early childhood deafness and goiter. A century after its recognition as a syndrome by Vaughan Pendred, the disease gene (PDS) was mapped to chromosome 7q22-q31. 1 and, recently, found to encode a putative sulfate transporter. We performed mutation analysis of the PDS gene in patients from 14 Pendred families originating from seven countries and identified all mutations. The mutations include three single base deletions, one splice site mutation and 10 missense mutations. One missense mutation (L236P) was found in a homozygous state in two consanguineous families and in a heterozygous state in five additional non-consanguineous families. Another missense mutation (T416P) was found in a homozygous state in one family and in a heterozygous state in four families. Pendred patients in three non-consanguineous families were shown to be compound heterozygotes for L236P and T416P. In total, one or both of these mutations were found in nine of the 14 families analyzed. The identification of two frequent PDS mutations will facilitate the molecular diagnosis of Pendred syndrome.</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Glaucoma-Related Pigment Dispersion Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C563184</infon>
+        <infon key="umls_cui">C1271398</infon>
+        <location offset="243" length="3"/>
+        <text>PDS</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Pendred syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C536648</infon>
+        <infon key="umls_cui">C0271829</infon>
+        <location offset="243" length="3"/>
+        <text>PDS</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="248" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Glaucoma-Related Pigment Dispersion Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C563184</infon>
+        <infon key="umls_cui">C1271398</infon>
+        <location offset="386" length="3"/>
+        <text>PDS</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Pendred syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C536648</infon>
+        <infon key="umls_cui">C0271829</infon>
+        <location offset="386" length="3"/>
+        <text>PDS</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="628" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="801" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Glaucoma-Related Pigment Dispersion Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C563184</infon>
+        <infon key="umls_cui">C1271398</infon>
+        <location offset="1132" length="3"/>
+        <text>PDS</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Pendred syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C536648</infon>
+        <infon key="umls_cui">C0271829</infon>
+        <location offset="1132" length="3"/>
+        <text>PDS</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

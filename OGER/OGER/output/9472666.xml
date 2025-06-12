@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9472666</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Molecular defects leading to human complement component C6 deficiency in an African-American family. Complement component C6 deficiency (C6D) was diagnosed in a 16-year-old African-American male with meningococcal meningitis. The patients father and two brothers also had C6D, but gave no history of meningitis or other neisserial infection. By using exon-specific polymerase chain reaction (PCR)/single-strand conformation polymorphism as a screening step and nucleotide sequencing of target exons, we determined that the proband was a compound heterozygote for two C6 gene mutations. The first, 1195delC located in exon 7, is a novel mutation, while the second, 1936delG in exon 12, has been described before to cause C6D in an unrelated African-American individual. Both mutations result in premature termination codons and C6 null alleles. Allele-specific PCR indicated that the probands two brothers also inherited the 1195delC mutation from their heterozygous mother and the 1936delG mutation from their homozygous father..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Complement Component 6 Deficiency</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567307</infon>
+        <infon key="umls_cui">C2676232</infon>
+        <location offset="137" length="3"/>
+        <text>C6D</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="142" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Complement Component 6 Deficiency</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567307</infon>
+        <infon key="umls_cui">C2676232</infon>
+        <location offset="272" length="3"/>
+        <text>C6D</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="531" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Complement Component 6 Deficiency</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567307</infon>
+        <infon key="umls_cui">C2676232</infon>
+        <location offset="720" length="3"/>
+        <text>C6D</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9382108</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Risk reversals in predictive testing for Huntington disease. The first predictive testing for Huntington disease (HD) was based on analysis of linked polymorphic DNA markers to estimate the likelihood of inheriting the mutation for HD. Limits to accuracy included recombination between the DNA markers and the mutation, pedigree structure, and whether DNA samples were available from family members. With direct tests for the HD mutation, we have assessed the accuracy of results obtained by linkage approaches when requested to do so by the test individuals. For six such individuals, there was significant disparity between the tests. Three went from a decreased risk to an increased risk, while in another three the risk was decreased. Knowledge of the potential reasons for these changes in results and impact of these risk reversals on both patients and the counseling team can assist in the development of strategies for the prevention and, where necessary, management of a risk reversal in any predictive testing program..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="118" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Ectodermal Dysplasia</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D004476</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="246" length="8"/>
+        <text>accuracy</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Ectodermal Dysplasia</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D004476</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="460" length="8"/>
+        <text>accuracy</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="592" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="724" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Crouzon Syndrome With Acanthosis Nigricans</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567382</infon>
+        <infon key="umls_cui">C2677099</infon>
+        <location offset="879" length="3"/>
+        <text>can</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

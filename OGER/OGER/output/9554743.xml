@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9554743</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Identification of three novel mutations and a high frequency of the Arg778Leu mutation in Korean patients with Wilson disease. Four mutations--R778L, A874V, L1083F, and 2304delC--in the copper-transporting enzyme, P-type ATPase (ATP7B), were identified in Korean Patients with Wilson disease. Arg778Leu, the most frequently reported mutation of this enzyme, was found in six of eight unrelated patients studied, an allele frequency of 37. 5%, which is considerably higher than those in other Asian populations. The novel single nucleotide deletion, 2304delC, was found in one patient. Since a mutation at cDNA nucleotide 2302 (2302insC) had been previously described, this region of the ATP7B gene may be susceptible to gene rearrangements causing Wilson disease.</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="358" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="559" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

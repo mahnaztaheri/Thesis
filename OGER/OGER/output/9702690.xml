@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9702690</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>A Japanese family with adrenoleukodystrophy with a codon 291 deletion: a clinical, biochemical, pathological, and genetic report. We report a Japanese family with adrenoleukodystrophy (ALD) with a three base pair deletion (delGAG 291) in the ALD gene. A variety of phenotypes were observed within this family. While the proband (patient 1) was classified as having a rare intermediate type of adult cerebral and cerebello-brain stem forms, his younger brother (patient 2) and nephew (patient 3) had a childhood ALD type. Another nephew (patient 4) of patient 1 was classified as having an adolescent form. The tau level in the cerebrospinal fluid (CSF) in patient 1 was as high as that of patients with Alzheimers disease (AD). His brain magnetic resonance image (MRI) showed abnormalities in the bilateral cerebellar hemispheres and brain stem, but not in the cerebral white matter, where marked reductions of the cerebral blood flow and oxygen metabolism were clearly demonstrated by positron emission tomography (PET). In patients 2 and 3, the autopsy findings showed massive demyelination of the cerebral white matter with sparing of the U-fibers, compatible with the findings of childhood ALD. Oleic and erucic acids (Lorenzos Oil) were administered to patients 1 and 4, but sufficient effectiveness was not obtained. The findings in this family suggest that delGAG291 is part of the cause of Japanese ALD with phenotypic variations. Moreover, although the scale of the study is limited, there is a possibility that PET can detect an insidious lesion which is undetectable by computed tomogram (CT) or MRI analysis, and that the higher level of tau reflects the process of neuronal degeneration in ALD. Lorenzos Oil should be given in the early stage..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adrenoleukodystrophy</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000326</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="185" length="3"/>
+        <text>ALD</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adrenoleukodystrophy</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000326</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="242" length="3"/>
+        <text>ALD</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="340" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adrenoleukodystrophy</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000326</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="511" length="3"/>
+        <text>ALD</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="561" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="666" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adrenoleukodystrophy</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000326</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1194" length="3"/>
+        <text>ALD</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1305" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adrenoleukodystrophy</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000326</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1407" length="3"/>
+        <text>ALD</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Crouzon Syndrome With Acanthosis Nigricans</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567382</infon>
+        <infon key="umls_cui">C2677099</infon>
+        <location offset="1525" length="3"/>
+        <text>can</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adrenoleukodystrophy</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000326</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1703" length="3"/>
+        <text>ALD</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

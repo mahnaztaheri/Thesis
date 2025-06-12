@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9585605</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Mutation analysis of UBE3A in Angelman syndrome patients. Angelman syndrome (AS) is caused by chromosome 15q11-q13 deletions of maternal origin, by paternal uniparental disomy (UPD) 15, by imprinting defects, and by mutations in the UBE3A gene. UBE3A encodes a ubiquitin-protein ligase and shows brain-specific imprinting. Here we describe UBE3A coding-region mutations detected by SSCP analysis in 13 AS individuals or families. Two identical de novo 5-bp duplications in exon 16 were found. Among the other 11 unique mutations, 8 were small deletions or insertions predicted to cause frameshifts, 1 was a mutation to a stop codon, 1 was a missense mutation, and 1 was predicted to cause insertion of an isoleucine in the hect domain of the UBE3A protein, which functions in E2 binding and ubiquitin transfer. Eight of the cases were familial, and five were sporadic. In two familial cases and one sporadic case, mosaicism for UBE3A mutations was detected  in the mother of three AS sons, in the maternal grandfather of two AS first cousins, and in the mother of an AS daughter. The frequencies with which we detected mutations were 5 (14%) of 35 in sporadic cases and 8 (80%) of 10 in familial cases..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="601" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="635" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="666" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="824" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="885" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="908" length="4"/>
+        <text>case</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="944" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1160" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1196" length="5"/>
+        <text>cases</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

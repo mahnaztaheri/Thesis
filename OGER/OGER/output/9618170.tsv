@@ -1,0 +1,14 @@
+9618170	disease	57	60	DMD	Muscular Dystrophy, Duchenne	D020388		S1	CTD (MESH)	CUI-less
+9618170	disease	94	108	cardiomyopathy	Cardiomyopathies	D009202		S1	CTD (MESH)	C0878544
+9618170	disease	127	141	cardiomyopathy	Cardiomyopathies	D009202		S2	CTD (MESH)	C0878544
+9618170	disease	143	148	XLDCM	Cardiomyopathies	D009202		S2	CTD (MESH)	C0878544
+9618170	disease	301	309	myopathy	Muscular Diseases	D009135		S2	CTD (MESH)	C0026848
+9618170	disease	379	382	DMD	Muscular Dystrophy, Duchenne	D020388		S3	CTD (MESH)	CUI-less
+9618170	disease	422	427	XLDCM	Cardiomyopathies	D009202		S3	CTD (MESH)	C0878544
+9618170	disease	495	498	DMD	Muscular Dystrophy, Duchenne	D020388		S3	CTD (MESH)	CUI-less
+9618170	disease	508	513	XLDCM	Cardiomyopathies	D009202		S3	CTD (MESH)	C0878544
+9618170	disease	646	649	DMD	Muscular Dystrophy, Duchenne	D020388		S4	CTD (MESH)	CUI-less
+9618170	disease	659	664	XLDCM	Cardiomyopathies	D009202		S4	CTD (MESH)	C0878544
+9618170	disease	726	729	was	Wiskott-Aldrich Syndrome	D014923		S5	CTD (MESH)	C0043194
+9618170	disease	1079	1082	DMD	Muscular Dystrophy, Duchenne	D020388		S6	CTD (MESH)	CUI-less
+9618170	disease	1151	1156	XLDCM	Cardiomyopathies	D009202		S6	CTD (MESH)	C0878544

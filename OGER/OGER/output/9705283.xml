@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9705283</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Truncation mutations in the transactivation region of PAX6 result in dominant-negative mutants. PAX6 is a transcription factor with two DNA-binding domains (paired box and homeobox) and a proline-serine-threonine (PST) -rich transactivation domain. PAX6 regulates eye development in animals ranging from jellyfish to Drosophila to humans. Heterozygous mutations in the human PAX6 gene result in various phenotypes, including aniridia, Peters anomaly, autosomal dominant keratitis, and familial foveal dysplasia. It is believed that the mutated allele of PAX6 produces an inactive protein and aniridia is caused due to genetic haploinsufficiency. However, several truncation mutations have been found to occur in the C-terminal half of PAX6 in patients with Aniridia resulting in mutant proteins that retain the DNA-binding domains but have lost most of the transactivation domain. It is not clear whether such mutants really behave as loss-of-function mutants as predicted by haploinsufficiency. Contrary to this theory, our data showed that these mutants are dominant-negative in transient transfection assays when they are coexpressed with wild-type PAX6. We found that the dominant-negative effects result from the enhanced DNA binding ability of these mutants. Kinetic studies of binding and dissociation revealed that various truncation mutants have 3-5-fold higher affinity to various DNA-binding sites when compared with the wild-type PAX6. These results provide a new insight into the role of mutant PAX6 in causing aniridia..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Abetalipoproteinemia</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D000012</infon>
+        <infon key="umls_cui">C0000744</infon>
+        <location offset="1239" length="7"/>
+        <text>ability</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9869602</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Prevalence of the I1307K APC gene variant in Israeli Jews of differing ethnic origin and risk for colorectal cancer. BACKGROUND &amp; AIMS  Israeli Jews of European birth, i. e., Ashkenazim, have the highest colorectal cancer incidence of any Israeli ethnic group. The I1307K APC gene variant was found in 6. 1% of American Jews, 28% of their familial colorectal cancer cases, but not in non-Jews. We assessed the I1307K prevalence in Israeli Jews of differing ethnic origin and risk for colorectal cancer. METHODS  DNA samples from 500 unrelated Jews of European or non-European origin, with or without a personal and/or family history of neoplasia, were examined for the I1307K variant by the allele-specific oligonucleotide (ASO) method. RESULTS  In persons at average risk for colorectal cancer, I1307K was found in 5. 0% of 120 European and 1. 6% of 188 non-European Jews (P = 0. 08). It occurred in 15. 4% of 52 Ashkenazi Israelis with familial cancer (P = 0. 02) and was not detected in 51 non-European Jews at increased cancer risk. Colorectal neoplasia occurred personally or in the families of 13 of 20 Ashkenazi I1307K carriers, 8 of whom also had a personal or family history of noncolonic neoplasia. CONCLUSIONS  The I1307K APC variant may represent a susceptibility gene for colorectal, or other, cancers in Ashkenazi Jews, and partially explains the higher incidence of colorectal cancer in European Israelis.</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="25" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="272" length="3"/>
+        <text>APC</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="289" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="366" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="803" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="970" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Adenomatous Polyposis Coli</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D011125</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1233" length="3"/>
+        <text>APC</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

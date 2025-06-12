@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9729124</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Genomic structure of the human congenital chloride diarrhea (CLD) gene. Congenital chloride diarrhea (CLD) is caused by mutations in a gene which encodes an intestinal anion transporter. We report here the complete genomic organization of the human CLD gene which spans approximately 39kb, and comprises 21 exons. All exon/intron boundaries conform to the GT/AG rule. An analysis of the putative promoter region sequence shows a putative TATA box and predicts multiple transcription factor binding sites. The genomic structure was determined using DNA from several sources including multiple large-insert libaries and genomic DNA from Finnish CLD patients and controls. Exon-specific primers developed in this study will facilitate mutation screening studies of patients with the disease. Genomic sequencing of a BAC clone H_RG364P16 revealed the presence of another, highly homologous gene 3 of the CLD gene, with a similar genomic structure, recently identified as the Pendred syndrome gene (PDS)..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="527" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Glaucoma-Related Pigment Dispersion Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C563184</infon>
+        <infon key="umls_cui">C1271398</infon>
+        <location offset="994" length="3"/>
+        <text>PDS</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Pendred syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C536648</infon>
+        <infon key="umls_cui">C0271829</infon>
+        <location offset="994" length="3"/>
+        <text>PDS</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

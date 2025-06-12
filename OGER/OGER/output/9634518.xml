@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9634518</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>A European multicenter study of phenylalanine hydroxylase deficiency: classification of 105 mutations and a general system for genotype-based prediction of metabolic phenotype. Phenylketonuria (PKU) and mild hyperphenylalaninemia (MHP) are allelic disorders caused by mutations in the gene encoding phenylalanine hydroxylase (PAH). Previous studies have suggested that the highly variable metabolic phenotypes of PAH deficiency correlate with PAH genotypes. We identified both causative mutations in 686 patients from seven European centers. On the basis of the phenotypic characteristics of 297 functionally hemizygous patients, 105 of the mutations were assigned to one of four arbitrary phenotype categories. We proposed and tested a simple model for correlation between genotype and phenotypic outcome. The observed phenotype matched the predicted phenotype in 79% of the cases, and in only 5 of 184 patients was the observed phenotype more than one category away from that expected. Among the seven contributing centers, the proportion of patients for whom the observed phenotype did not match the predicted phenotype was 4% -23% (P &lt;. 0001), suggesting that differences in methods used for mutation detection or phenotype classification may account for a considerable proportion of genotype-phenotype inconsistencies. Our data indicate that the PAH-mutation genotype is the main determinant of metabolic phenotype in most patients with PAH deficiency. In the present study, the classification of 105 PAH mutations may allow the prediction of the biochemical phenotype in &gt; 10, 000 genotypes, which may be useful for the management of hyperphenylalaninemia in newborns.</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Phenylketonurias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D010661</infon>
+        <infon key="umls_cui">C0031485</infon>
+        <location offset="194" length="3"/>
+        <text>PKU</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="876" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="913" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1123" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

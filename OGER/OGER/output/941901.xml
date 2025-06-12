@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>941901</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Low levels of beta hexosaminidase A in healthy individuals with apparent deficiency of this enzyme. Appreciable beta hexosaminidase A (hex A) activity has been detected in cultured skin fibroblasts and melanoma tissue from healthy individuals previously reported as having deficiency of hex A activity indistinguishable from that of patients with Tay-Sachs disease (TSD). Identification and quantitation of hex A, amounting to 3. 5% -6. 9% of total beta hexosaminidase activity, has been obtained by cellulose acetate gel electrophoresis, DEAE-cellulose ion-exchange chromatography, radial immunodiffusion, and radioimmunoassay. Previous family studies suggested that these individuals may be compound heterozygotes for the common mutant TSD gene and a rare (allelic) mutant gene. Thus, the postulated rate mutant gene appears to code for the expression of low amounts of hex A. Heterozygotes for the rare mutant may be indistinguishable from heterozygotes for the common TSD mutant. However, direct visualization and quantitation of hex A by the methods described may prevent false-positive prenatal diagnosis of TSD in fetuses having the incomplete hex A deficiency of the type described in the four healthy individuals</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Tay-Sachs Disease</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013661</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="366" length="3"/>
+        <text>TSD</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Dyschromatosis symmetrica hereditaria 1</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C535729</infon>
+        <infon key="umls_cui">C0406775</infon>
+        <location offset="583" length="6"/>
+        <text>radial</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Tay-Sachs Disease</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013661</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="738" length="3"/>
+        <text>TSD</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Tay-Sachs Disease</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013661</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="972" length="3"/>
+        <text>TSD</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Amyotrophic lateral sclerosis 1</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C531617</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1077" length="5"/>
+        <text>false</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Tay-Sachs Disease</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013661</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1114" length="3"/>
+        <text>TSD</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

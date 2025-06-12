@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9856498</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>The molecular basis of C6 deficiency in the western Cape, South Africa. Deficiency of the sixth component of human complement (C6) has been reported in a number of families from the western Cape, South Africa. Meningococcal disease is endemic in the Cape and almost all pedigrees of total C6 deficiency (C6Q0) have been ascertained because of recurrent disease. We have sequenced the expressed exons of the C6 gene from selected cases and have found three molecular defects leading to total deficiency  879delG, which is the common defect in the Cape and hitherto unreported, and 1195delC and 1936delG, which have been previously reported in African-Americans. We also show that the 879delG and 1195delC defects are associated with characteristic C6/C7 region DNA marker haplotypes, although small variations were observed. The 1936delG defect was observed only once in the Cape, but its associated haplotype could be deduced. The data from the haplotypes indicate that these three molecular defects account for the defects in all the 38 unrelated C6Q0 individuals we have studied from the Cape. We have also observed the 879delG defect in two Dutch C6-deficient kindreds, but the 879delG defect in the Cape probably did not come from The Netherlands..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">CATARACT 32, MULTIPLE TYPES</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">115650</infon>
+        <infon key="umls_cui">C1855179</infon>
+        <location offset="52" length="4"/>
+        <text>Cape</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">CATARACT 32, MULTIPLE TYPES</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">115650</infon>
+        <infon key="umls_cui">C1855179</infon>
+        <location offset="190" length="4"/>
+        <text>Cape</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">CATARACT 32, MULTIPLE TYPES</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">115650</infon>
+        <infon key="umls_cui">C1855179</infon>
+        <location offset="250" length="4"/>
+        <text>Cape</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="429" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">CATARACT 32, MULTIPLE TYPES</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">115650</infon>
+        <infon key="umls_cui">C1855179</infon>
+        <location offset="546" length="4"/>
+        <text>Cape</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="844" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">CATARACT 32, MULTIPLE TYPES</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">115650</infon>
+        <infon key="umls_cui">C1855179</infon>
+        <location offset="874" length="4"/>
+        <text>Cape</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">CATARACT 32, MULTIPLE TYPES</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">115650</infon>
+        <infon key="umls_cui">C1855179</infon>
+        <location offset="1090" length="4"/>
+        <text>Cape</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">CATARACT 32, MULTIPLE TYPES</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">115650</infon>
+        <infon key="umls_cui">C1855179</infon>
+        <location offset="1203" length="4"/>
+        <text>Cape</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

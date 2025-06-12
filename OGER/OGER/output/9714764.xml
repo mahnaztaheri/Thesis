@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9714764</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Cloning of a novel member of the low-density lipoprotein receptor family. A gene encoding a novel transmembrane protein was identified by DNA sequence analysis within the insulin-dependent diabetes mellitus (IDDM) locus IDDM4 on chromosome 11q13. Based on its chromosomal position, this gene is a candidate for conferring susceptibility to diabetes. The gene, termed low-density lipoprotein receptor related protein 5 (LRP5), encodes a protein of 1615 amino acids that contains conserved modules which are characteristic of the low-density lipoprotein (LDL) receptor family. These modules include a putative signal peptide for protein export, four epidermal growth factor (EGF) repeats with associated spacer domains, three LDL-receptor (LDLR) repeats, a single transmembrane spanning domain, and a cytoplasmic domain. The encoded protein has a unique organization of EGF and LDLR repeats; therefore, LRP5 likely represents a new category of the LDLR family. Both human and mouse LRP5 cDNAs have been isolated and the encoded mature proteins are 95% identical, indicating a high degree of evolutionary conservation..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="120" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Diabetes Mellitus, Type 1</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D003922</infon>
+        <infon key="umls_cui">C0011854</infon>
+        <location offset="208" length="4"/>
+        <text>IDDM</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Diabetes Mellitus, Type 1</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D003922</infon>
+        <infon key="umls_cui">C0011854</infon>
+        <location offset="220" length="4"/>
+        <text>IDDM</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Diabetes Mellitus, Insulin-Dependent, 4</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C563959</infon>
+        <infon key="umls_cui">C1838261</infon>
+        <location offset="220" length="5"/>
+        <text>IDDM4</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

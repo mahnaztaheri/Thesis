@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9988281</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Localization of human BRCA1 and its loss in high-grade, non-inherited breast carcinomas. Although the link between the BRCA1 tumour-suppressor gene and hereditary breast and ovarian cancer is established, the role, if any, of BRCA1 in non-familial cancers is unclear. BRCA1 mutations are rare in sporadic cancers, but loss of BRCA1 resulting from reduced expression or incorrect subcellular localization is postulated to be important in non-familial breast and ovarian cancers. Epigenetic loss, however, has not received general acceptance due to controversy regarding the subcellular localization of BRCA1 proteins, reports of which have ranged from exclusively nuclear, to conditionally nuclear, to the ER/golgi, to cytoplasmic invaginations into the nucleus. In an attempt to resolve this issue, we have comprehensively characterized 19 anti-BRCA1 antibodies. These reagents detect a 220-kD protein localized in discrete nuclear foci in all epithelial cell lines, including those derived from breast malignancies. Immunohistochemical staining of human breast specimens also revealed BRCA1 nuclear foci in benign breast, invasive lobular cancers and low-grade ductal carcinomas. Conversely, BRCA1 expression was reduced or undetectable in the majority of high-grade, ductal carcinomas, suggesting that absence of BRCA1 may contribute to the pathogenesis of a significant percentage of sporadic breast cancers..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Breast Neoplasms</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001943</infon>
+        <infon key="umls_cui">C0678222</infon>
+        <location offset="70" length="17"/>
+        <text>breast carcinomas</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Carcinoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D002277</infon>
+        <infon key="umls_cui">C0007097</infon>
+        <location offset="77" length="10"/>
+        <text>carcinomas</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Carcinoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D002277</infon>
+        <infon key="umls_cui">C0007097</infon>
+        <location offset="1169" length="10"/>
+        <text>carcinomas</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1210" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Carcinoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D002277</infon>
+        <infon key="umls_cui">C0007097</infon>
+        <location offset="1276" length="10"/>
+        <text>carcinomas</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

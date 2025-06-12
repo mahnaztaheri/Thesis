@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9288106</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Clustering of missense mutations in the ataxia-telangiectasia gene in a sporadic T-cell leukaemia. Ataxia-telangiectasia (A-T) is a recessive multi-system disorder caused by mutations in the ATM gene at 11q22-q23 (ref. 3). The risk of cancer, especially lymphoid neoplasias, is substantially elevated in A-T patients and has long been associated with chromosomal instability. By analysing tumour DNA from patients with sporadic T-cell prolymphocytic leukaemia (T-PLL), a rare clonal malignancy with similarities to a mature T-cell leukaemia seen in A-T, we demonstrate a high frequency of ATM mutations in T-PLL. In marked contrast to the ATM mutation pattern in A-T, the most frequent nucleotide changes in this leukaemia were missense mutations. These clustered in the region corresponding to the kinase domain, which is highly conserved in ATM-related proteins in mouse, yeast and Drosophila. The resulting amino-acid substitutions are predicted to interfere with ATP binding or substrate recognition. Two of seventeen mutated T-PLL samples had a previously reported A-T allele. In contrast, no mutations were detected in the p53 gene, suggesting that this tumour suppressor is not frequently altered in this leukaemia. Occasional missense mutations in ATM were also found in tumour DNA from patients with B-cell non-Hodgkins lymphomas (B-NHL) and a B-NHL cell line. The evidence of a significant proportion of loss-of-function mutations and a complete absence of the normal copy of ATM in the majority of mutated tumours establishes somatic inactivation of this gene in the pathogenesis of sporadic T-PLL and suggests that ATM acts as a tumour suppressor. As constitutional DNA was not available, a putative hereditary predisposition to T-PLL will require further investigation..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Neoplasms</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009369</infon>
+        <infon key="umls_cui">C0027651</infon>
+        <location offset="263" length="10"/>
+        <text>neoplasias</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Lymphoma, Non-Hodgkin</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D008228</infon>
+        <infon key="umls_cui">C0024305</infon>
+        <location offset="1316" length="22"/>
+        <text>non-Hodgkins lymphomas</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Hodgkin Disease</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D006689</infon>
+        <infon key="umls_cui">C0019829</infon>
+        <location offset="1320" length="18"/>
+        <text>Hodgkins lymphomas</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Lymphoma</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D008223</infon>
+        <infon key="umls_cui">C0024299</infon>
+        <location offset="1329" length="9"/>
+        <text>lymphomas</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Lymphoma, Non-Hodgkin</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D008228</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1342" length="3"/>
+        <text>NHL</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Lymphoma, Non-Hodgkin</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D008228</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1355" length="3"/>
+        <text>NHL</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1682" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

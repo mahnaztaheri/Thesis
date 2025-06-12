@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9689113</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>A mouse model of severe von Willebrand disease: defects in hemostasis and thrombosis. von Willebrand factor (vWf) deficiency causes severe von Willebrand disease in humans. We generated a mouse model for this disease by using gene targeting. vWf-deficient mice appeared normal at birth; they were viable and fertile. Neither vWf nor vWf propolypeptide (von Willebrand antigen II) were detectable in plasma, platelets, or endothelial cells of the homozygous mutant mice. The mutant mice exhibited defects in hemostasis with a highly prolonged bleeding time and spontaneous bleeding events in approximately 10% of neonates. As in the human disease, the factor VIII level in these mice was reduced strongly as a result of the lack of protection provided by vWf. Defective thrombosis in mutant mice was also evident in an in vivo model of vascular injury. In this model, the exteriorized mesentery was superfused with ferric chloride and the accumulation of fluorescently labeled platelets was observed by intravital microscopy. We conclude that these mice very closely mimic severe human von Willebrand disease and will be very useful for investigating the role of vWf in normal physiology and in disease models..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Thrombosis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013927</infon>
+        <infon key="umls_cui">C0040053</infon>
+        <location offset="74" length="10"/>
+        <text>thrombosis</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="683" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Thrombosis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013927</infon>
+        <infon key="umls_cui">C0040053</infon>
+        <location offset="769" length="10"/>
+        <text>thrombosis</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="795" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wounds and Injuries</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014947</infon>
+        <infon key="umls_cui">C3263723</infon>
+        <location offset="844" length="6"/>
+        <text>injury</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="894" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="986" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

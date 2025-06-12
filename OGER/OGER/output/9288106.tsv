@@ -1,0 +1,7 @@
+9288106	disease	263	273	neoplasias	Neoplasms	D009369		S4	CTD (MESH)	C0027651
+9288106	disease	1316	1338	non-Hodgkins lymphomas	Lymphoma, Non-Hodgkin	D008228		S11	CTD (MESH)	C0024305
+9288106	disease	1320	1338	Hodgkins lymphomas	Hodgkin Disease	D006689		S11	CTD (MESH)	C0019829
+9288106	disease	1329	1338	lymphomas	Lymphoma	D008223		S11	CTD (MESH)	C0024299
+9288106	disease	1342	1345	NHL	Lymphoma, Non-Hodgkin	D008228		S11	CTD (MESH)	CUI-less
+9288106	disease	1355	1358	NHL	Lymphoma, Non-Hodgkin	D008228		S11	CTD (MESH)	CUI-less
+9288106	disease	1682	1685	was	Wiskott-Aldrich Syndrome	D014923		S13	CTD (MESH)	C0043194

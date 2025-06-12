@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9771706</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>A gene encoding a transmembrane protein is mutated in patients with diabetes mellitus and optic atrophy (Wolfram syndrome). Wolfram syndrome (WFS; OMIM 222300) is an autosomal recessive neurodegenerative disorder defined by young-onset non-immune insulin-dependent diabetes mellitus and progressive optic atrophy. Linkage to markers on chromosome 4p was confirmed in five families. On the basis of meiotic recombinants and disease-associated haplotypes, the WFS gene was localized to a BAC/P1 contig of less than 250 kb. Mutations in a novel gene (WFS1) encoding a putative transmembrane protein were found in all affected individuals in six WFS families, and these mutations were associated with the disease phenotype. WFS1 appears to function in survival of islet beta-cells and neurons..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wolfram Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014929</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="142" length="3"/>
+        <text>WFS</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="350" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wolfram Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014929</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="458" length="3"/>
+        <text>WFS</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="467" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wolfram Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014929</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="548" length="3"/>
+        <text>WFS</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wolfram Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014929</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="548" length="4"/>
+        <text>WFS1</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wolfram Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014929</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="642" length="3"/>
+        <text>WFS</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wolfram Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014929</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="720" length="3"/>
+        <text>WFS</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wolfram Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014929</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="720" length="4"/>
+        <text>WFS1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

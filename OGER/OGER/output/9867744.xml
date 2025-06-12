@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9867744</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Diagnosis of hemochromatosis. If untreated, hemochromatosis can cause serious illness and early death, but the disease is still substantially under-diagnosed. The cornerstone of screening and case detection is the measurement of serum transferrin saturation and the serum ferritin level. Once the diagnosis is suspected, physicians must use serum ferritin levels and hepatic iron stores on liver biopsy specimens to assess patients for the presence of iron overload. Liver biopsy is also used to establish the presence or absence of cirrhosis, which can affect prognosis and management. A DNA-based test for the HFE gene is commercially available, but its place in the diagnosis of hemochromatosis is still being evaluated. Currently, the most useful role for this test is in the detection of hemochromatosis in the family members of patients with a proven case of the disease. It is crucial to diagnose hemochromatosis before hepatic cirrhosis develops because phlebotomy therapy can avert serious chronic disease and can even lead to normal life expectancy..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Crouzon Syndrome With Acanthosis Nigricans</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567382</infon>
+        <infon key="umls_cui">C2677099</infon>
+        <location offset="60" length="3"/>
+        <text>can</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="192" length="4"/>
+        <text>case</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Iron Overload</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D019190</infon>
+        <infon key="umls_cui">C0282193</infon>
+        <location offset="452" length="13"/>
+        <text>iron overload</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Crouzon Syndrome With Acanthosis Nigricans</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567382</infon>
+        <infon key="umls_cui">C2677099</infon>
+        <location offset="550" length="3"/>
+        <text>can</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Hemochromatosis</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D006432</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="612" length="3"/>
+        <text>HFE</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="857" length="4"/>
+        <text>case</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Crouzon Syndrome With Acanthosis Nigricans</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567382</infon>
+        <infon key="umls_cui">C2677099</infon>
+        <location offset="981" length="3"/>
+        <text>can</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Crouzon Syndrome With Acanthosis Nigricans</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567382</infon>
+        <infon key="umls_cui">C2677099</infon>
+        <location offset="1019" length="3"/>
+        <text>can</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

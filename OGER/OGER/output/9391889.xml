@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9391889</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Paternal transmission of congenital myotonic dystrophy. We report a rare case of paternally transmitted congenital myotonic dystrophy (DM). The proband is a 23 year old, mentally retarded male who suffers severe muscular weakness. He presented with respiratory and feeding difficulties at birth. His two sibs suffer from childhood onset DM. Their late father had the adult type of DM, with onset around 30 years. Only six other cases of paternal transmission of congenital DM have been reported recently. We review the sex related effects on transmission of congenital DM. Decreased fertility of males with adult onset DM and contraction of the repeat upon male transmission contribute to the almost absent occurrence of paternal transmission of congenital DM. Also the fathers of the reported congenitally affected children showed, on average, shorter CTG repeat lengths and hence less severe clinical symptoms than the mothers of children with congenital DM. We conclude that paternal transmission of congenital DM is rare and preferentially occurs with onset of DM past 30 years in the father..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="73" length="4"/>
+        <text>case</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="428" length="5"/>
+        <text>cases</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

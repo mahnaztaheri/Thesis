@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9674906</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Schwartz-Jampel syndrome type 2 and Stuve-Wiedemann syndrome: a case for "lumping". Recent studies demonstrated the existence of a genetically distinct, usually lethal form of the Schwartz-Jampel syndrome (SJS) of myotonia and skeletal dysplasia, which we called SJS type 2. This disorder is reminiscent of another rare condition, the Stuve-Wiedemann syndrome (SWS), which comprises campomelia at birth with skeletal dysplasia, contractures, and early death. To test for possible nosologic identity between these disorders, we reviewed the literature and obtained a follow-up of the only two surviving patients, one with SJS type 2 at age 10 years and another with SWS at age 7 years. Patients reported as having either neonatal SJS or SWS presented a combination of a severe, prenatal-onset neuromuscular disorder (with congenital joint contractures, respiratory and feeding difficulties, tendency to hyperthermia, and frequent death in infancy) with a distinct campomelic-metaphyseal skeletal dysplasia. The similarity of the clinical and radiographic findings is so extensive that these disorders appear to be a single entity. The follow-up observation of an identical and unique pattern of progressive bone dysplasia in the two patients (one with SJS type 2, one with SWS) surviving beyond infancy adds to the evidence in favor of identity. The hypothesis that SWS and SJS type 2 are the same disorder should be testable by molecular methods..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="64" length="4"/>
+        <text>case</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Osteochondrodysplasias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D010009</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="206" length="3"/>
+        <text>SJS</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Osteochondrodysplasias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D010009</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="263" length="3"/>
+        <text>SJS</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Sturge-Weber Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013341</infon>
+        <infon key="umls_cui">C0038505</infon>
+        <location offset="361" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Stuve-Wiedemann syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C537502</infon>
+        <infon key="umls_cui">C0796176</infon>
+        <location offset="361" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Osteochondrodysplasias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D010009</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="621" length="3"/>
+        <text>SJS</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Sturge-Weber Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013341</infon>
+        <infon key="umls_cui">C0038505</infon>
+        <location offset="665" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Stuve-Wiedemann syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C537502</infon>
+        <infon key="umls_cui">C0796176</infon>
+        <location offset="665" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Osteochondrodysplasias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D010009</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="729" length="3"/>
+        <text>SJS</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Sturge-Weber Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013341</infon>
+        <infon key="umls_cui">C0038505</infon>
+        <location offset="736" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Stuve-Wiedemann syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C537502</infon>
+        <infon key="umls_cui">C0796176</infon>
+        <location offset="736" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Osteochondrodysplasias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D010009</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1251" length="3"/>
+        <text>SJS</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Sturge-Weber Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013341</infon>
+        <infon key="umls_cui">C0038505</infon>
+        <location offset="1272" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Stuve-Wiedemann syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C537502</infon>
+        <infon key="umls_cui">C0796176</infon>
+        <location offset="1272" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Sturge-Weber Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D013341</infon>
+        <infon key="umls_cui">C0038505</infon>
+        <location offset="1365" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Stuve-Wiedemann syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C537502</infon>
+        <infon key="umls_cui">C0796176</infon>
+        <location offset="1365" length="3"/>
+        <text>SWS</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Osteochondrodysplasias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D010009</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1373" length="3"/>
+        <text>SJS</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

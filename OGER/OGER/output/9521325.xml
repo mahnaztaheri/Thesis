@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9521325</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Genetic basis and molecular mechanism for idiopathic ventricular fibrillation. Ventricular fibrillation causes more than 300, 000 sudden deaths each year in the USA alone. In approximately 5-12% of these cases, there are no demonstrable cardiac or non-cardiac causes to account for the episode, which is therefore classified as idiopathic ventricular fibrillation (IVF). A distinct group of IVF patients has been found to present with a characteristic electrocardiographic pattern. Because of the small size of most pedigrees and the high incidence of sudden death, however, molecular genetic studies of IVF have not yet been done. Because IVF causes cardiac rhythm disturbance, we investigated whether malfunction of ion channels could cause the disorder by studying mutations in the cardiac sodium channel gene SCN5A. We have now identified a missense mutation, a splice-donor mutation, and a frameshift mutation in the coding region of SCN5A in three IVF families. We show that sodium channels with the missense mutation recover from inactivation more rapidly than normal and that the frameshift mutation causes the sodium channel to be non-functional. Our results indicate that mutations in cardiac ion-channel genes contribute to the risk of developing IVF..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Death</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D003643</infon>
+        <infon key="umls_cui">C0011065</infon>
+        <location offset="137" length="6"/>
+        <text>deaths</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="204" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">NEUTROPENIA, SEVERE CONGENITAL, 5, AUTOSOMAL RECESSIVE</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">615285</infon>
+        <infon key="umls_cui">C3809031</infon>
+        <location offset="813" length="4"/>
+        <text>SCN5</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">NEUTROPENIA, SEVERE CONGENITAL, 5, AUTOSOMAL RECESSIVE</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">615285</infon>
+        <infon key="umls_cui">C3809031</infon>
+        <location offset="939" length="4"/>
+        <text>SCN5</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

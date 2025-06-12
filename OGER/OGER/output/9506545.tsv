@@ -1,0 +1,24 @@
+9506545	disease	289	296	ataxias	Ataxia	D001259		S1	CTD (MESH)	C0004134
+9506545	disease	320	327	ataxias	Ataxia	D001259		S1	CTD (MESH)	C0004134
+9506545	disease	337	341	SCA1	Spinocerebellar Ataxias	D020754		S1	CTD (MESH)	C0752120
+9506545	disease	351	355	SCA2	Spinocerebellar Ataxias	D020754		S1	CTD (MESH)	CUI-less
+9506545	disease	369	373	SCA3	Machado-Joseph Disease	D017827		S1	CTD (MESH)	CUI-less
+9506545	disease	398	401	MJD	Machado-Joseph Disease	D017827		S1	CTD (MESH)	CUI-less
+9506545	disease	416	420	SCA1	Spinocerebellar Ataxias	D020754		S2	CTD (MESH)	C0752120
+9506545	disease	440	443	was	Wiskott-Aldrich Syndrome	D014923		S2	CTD (MESH)	C0043194
+9506545	disease	519	522	was	Wiskott-Aldrich Syndrome	D014923		S3	CTD (MESH)	C0043194
+9506545	disease	537	541	SCA2	Spinocerebellar Ataxias	D020754		S4	CTD (MESH)	CUI-less
+9506545	disease	560	563	was	Wiskott-Aldrich Syndrome	D014923		S4	CTD (MESH)	C0043194
+9506545	disease	625	628	was	Wiskott-Aldrich Syndrome	D014923		S5	CTD (MESH)	C0043194
+9506545	disease	651	654	was	Wiskott-Aldrich Syndrome	D014923		S5	CTD (MESH)	C0043194
+9506545	disease	802	805	was	Wiskott-Aldrich Syndrome	D014923		S6	CTD (MESH)	C0043194
+9506545	disease	816	820	SCA3	Machado-Joseph Disease	D017827		S7	CTD (MESH)	CUI-less
+9506545	disease	844	847	was	Wiskott-Aldrich Syndrome	D014923		S7	CTD (MESH)	C0043194
+9506545	disease	865	868	was	Wiskott-Aldrich Syndrome	D014923		S7	CTD (MESH)	C0043194
+9506545	disease	912	915	was	Wiskott-Aldrich Syndrome	D014923		S7	CTD (MESH)	C0043194
+9506545	disease	1081	1085	SCA1	Spinocerebellar Ataxias	D020754		S8	CTD (MESH)	C0752120
+9506545	disease	1098	1102	SCA2	Spinocerebellar Ataxias	D020754		S8	CTD (MESH)	CUI-less
+9506545	disease	1133	1137	SCA3	Machado-Joseph Disease	D017827		S8	CTD (MESH)	CUI-less
+9506545	disease	1228	1232	SCA1	Spinocerebellar Ataxias	D020754		S8	CTD (MESH)	C0752120
+9506545	disease	1234	1238	SCA2	Spinocerebellar Ataxias	D020754		S8	CTD (MESH)	CUI-less
+9506545	disease	1244	1248	SCA3	Machado-Joseph Disease	D017827		S8	CTD (MESH)	CUI-less

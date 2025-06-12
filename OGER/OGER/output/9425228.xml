@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9425228</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Prevalence of p16 and CDK4 germline mutations in 48 melanoma-prone families in France. The French Familial Melanoma Study Group. Germline mutations in the p16 and CDK4 genes have been reported in a subset of melanoma pedigrees, but their prevalence is not well known. We searched for such germline mutations in 48 French melanoma-prone families selected according to two major criteria  families with at least three affected members (n = 20) or families with two affected members, one of them affected before the age of 50 (n = 28), and one additional minor criterion. Sixteen different p16 germline mutations were found in 21 families, while one germline mutation, Arg24His, was detected in the CDK4 gene. The frequency of p16 gene mutation in our sample (44%) is among the highest rates yet reported and the CDK4 mutation is the second mutation detected in this gene worldwide. In summary, our results show frequent involvement of the p16 gene in familial melanoma and confirm the role of the CDK4 gene as a melanoma-predisposing gene..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="676" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

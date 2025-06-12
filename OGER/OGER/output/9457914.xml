@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9457914</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>A deletion mutation in COL17A1 in five Austrian families with generalized atrophic benign epidermolysis bullosa represents propagation of an ancestral allele. Patients with generalized atrophic benign epidermolysis bullosa, a usually nonlethal form of junctional epidermolysis bullosa, have generalized blistering, nail dystrophy, patchy alopecia, and dental abnormalities. Skin fragility in most cases is due to mutations in the gene encoding type XVII collagen (COL17A1). Recently, we reported five Austrian families with generalized atrophic benign epidermolysis bullosa who share the same COL17A1 mutation. Affected individuals in three families are homozygous for 4003delTC, whereas those in two others are compound heterozygotes. To determine if the occurrence of 4003delTC in these unrelated families signifies propagation of an ancestral allele or a mutational hot spot, haplotypes were determined for polymorphisms both within and flanking COL17A1. Five intragenic polymorphisms were chosen based on their informativeness. One of these, not previously reported, was 2988 A or C that introduces a new restriction site for Eco0109 I. All the 4003delTC alleles showed the same haplotype for these five polymorphic markers. Fourteen microsatellite polymorphisms were selected based on their high heterozygosity and their location within 10q23-q25 near COL17A1. Three families shared microsatellite polymorphisms covering at most 19 cM, whereas the others shared smaller regions consistent with cross-over events during passage of this mutation through several generations. These results indicate that 4003delTC occurs on a single ancestral allele..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Apraxias</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001072</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="397" length="5"/>
+        <text>cases</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1071" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Endocrine-Cerebroosteodysplasia</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">C567210</infon>
+        <infon key="umls_cui">C2675227</infon>
+        <location offset="1130" length="3"/>
+        <text>Eco</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

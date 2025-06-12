@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9709714</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Reversal of severe hypertrophic cardiomyopathy and excellent neuropsychologic outcome in very-long-chain acyl-coenzyme A dehydrogenase deficiency. Very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) deficiency is a disorder of fatty acid beta oxidation that reportedly has high rates of morbidity and mortality. We describe the outcome of a 5-year-old girl with VLCAD deficiency who was first seen at 5 months of age with severe hypertrophic cardiomyopathy, hepatomegaly, encephalopathy, and hypotonia. Biochemical studies indicated VLCAD deficiency caused by a stable yet inactive enzyme. Molecular genetic analysis of her VLCAD gene revealed a T1372C (F458L) missense mutation and a 1668 ACAG 1669 splice site mutation. After initial treatment with intravenous glucose and carnitine, the patient has thrived on a low-fat diet supplemented with medium-chain triglyceride oil and carnitine and avoidance of fasting. Her ventricular hypertrophy resolved significantly over 1 year, and cognitively, she is in the superior range for age. Clinical recognition of VLCAD deficiency is important because it is one of the few directly treatable causes of cardiomyopathy in children..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="32" length="14"/>
+        <text>cardiomyopathy</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="385" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="444" length="14"/>
+        <text>cardiomyopathy</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Brain Diseases</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D001927</infon>
+        <infon key="umls_cui">C0085584</infon>
+        <location offset="474" length="14"/>
+        <text>encephalopathy</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="1149" length="14"/>
+        <text>cardiomyopathy</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

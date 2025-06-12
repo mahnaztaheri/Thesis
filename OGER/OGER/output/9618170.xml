@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9618170</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>Insertional mutation by transposable element, L1, in the DMD gene results in X-linked dilated cardiomyopathy. X-linked dilated cardiomyopathy (XLDCM) is a clinical phenotype of dystrophinopathy which is characterized by preferential myocardial involvement without any overt clinical signs of skeletal myopathy. To date, several mutations in the Duchenne muscular dystrophy gene, DMD, have been identified in patients with XLDCM, but a pathogenic correlation of these cardiospecific mutations in DMD with the XLDCM phenotype has remained to be elucidated. We report here the identification of a unique de novo L1 insertion in the muscle exon 1 in DMD in three XLDCM patients from two unrelated Japanese families. The insertion was a 5-truncated form of human L1 inversely integrated in the 5-untranslated region in the muscle exon 1, which affected the transcription or the stability of the muscle form of dystrophin transcripts but not that of the brain or Purkinje cell form, probably due to its unique site of integration. We speculate that this insertion of an L1 sequence in DMD is responsible for some of the population of Japanese patients with XLDCM..</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="57" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="94" length="14"/>
+        <text>cardiomyopathy</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="127" length="14"/>
+        <text>cardiomyopathy</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="143" length="5"/>
+        <text>XLDCM</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Diseases</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009135</infon>
+        <infon key="umls_cui">C0026848</infon>
+        <location offset="301" length="8"/>
+        <text>myopathy</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="379" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="422" length="5"/>
+        <text>XLDCM</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="495" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="508" length="5"/>
+        <text>XLDCM</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="646" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="659" length="5"/>
+        <text>XLDCM</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="726" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Muscular Dystrophy, Duchenne</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D020388</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="1079" length="3"/>
+        <text>DMD</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Cardiomyopathies</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D009202</infon>
+        <infon key="umls_cui">C0878544</infon>
+        <location offset="1151" length="5"/>
+        <text>XLDCM</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

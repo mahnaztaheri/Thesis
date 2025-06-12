@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9744473</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>The R496H mutation of arylsulfatase A does not cause metachromatic leukodystrophy. Deficiency of arylsulfatase A (ARSA) enzyme activity causes metachromatic leukodystrophy (MLD). A number of ARSA gene mutations responsible for MLD have been identified. Recently, the R496H mutation of ARSA was proposed to be a cause of MLD (Draghia et al., 1997). We have investigated the R496H mutation and found this mutation at a relatively high frequency in an African American population (f = 0. 09, n = 61 subjects). The ARSA enzyme activity in subjects with and without the R496H mutation was determined and found to be normal. It is therefore concluded that the R496H mutation of ARSA does not negatively influence the activity of ARSA and is not a cause of MLD</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">AL-RAQAD SYNDROME</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">616459</infon>
+        <infon key="umls_cui">C4085595</infon>
+        <location offset="114" length="4"/>
+        <text>ARSA</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Leukodystrophy, Metachromatic</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D007966</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="173" length="3"/>
+        <text>MLD</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">AL-RAQAD SYNDROME</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">616459</infon>
+        <infon key="umls_cui">C4085595</infon>
+        <location offset="191" length="4"/>
+        <text>ARSA</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Leukodystrophy, Metachromatic</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D007966</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="227" length="3"/>
+        <text>MLD</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">AL-RAQAD SYNDROME</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">616459</infon>
+        <infon key="umls_cui">C4085595</infon>
+        <location offset="285" length="4"/>
+        <text>ARSA</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="290" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Leukodystrophy, Metachromatic</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D007966</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="320" length="3"/>
+        <text>MLD</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">AL-RAQAD SYNDROME</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">616459</infon>
+        <infon key="umls_cui">C4085595</infon>
+        <location offset="511" length="4"/>
+        <text>ARSA</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="580" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">AL-RAQAD SYNDROME</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">616459</infon>
+        <infon key="umls_cui">C4085595</infon>
+        <location offset="672" length="4"/>
+        <text>ARSA</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">AL-RAQAD SYNDROME</infon>
+        <infon key="original_resource">CTD (OMIM)</infon>
+        <infon key="native_id">616459</infon>
+        <infon key="umls_cui">C4085595</infon>
+        <location offset="723" length="4"/>
+        <text>ARSA</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Leukodystrophy, Metachromatic</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D007966</infon>
+        <infon key="umls_cui">CUI-less</infon>
+        <location offset="750" length="3"/>
+        <text>MLD</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

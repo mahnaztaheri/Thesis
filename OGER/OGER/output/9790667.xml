@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>9790667</id>
+    <passage>
+      <infon key="type"></infon>
+      <offset>0</offset>
+      <text>A novel Arg362Ser mutation in the sterol 27-hydroxylase gene (CYP27): its effects on pre-mRNA splicing and enzyme activity. A novel C to A mutation in the sterol 27-hydroxylase gene (CYP27) was identified by sequencing amplified CYP27 gene products from a patient with cerebrotendinous xanthomatosis (CTX). The mutation changed the adrenodoxin cofactor binding residue 362Arg to 362Ser (CGT 362Arg to AGT 362Ser), and was responsible for deficiency in the sterol 27-hydroxylase activity, as confirmed by expression of mutant cDNA into COS-1 cells. Quantitative analysis showed that the expression of CYP27 gene mRNA in the patient represented 52. 5% of the normal level. As the mutation occurred at the penultimate nucleotide of exon 6 (-2 position of exon 6-intron 6 splice site) of the gene, we hypothesized that the mutation may partially affect the normal splicing efficiency in exon 6 and cause alternative splicing elsewhere, which resulted in decreased transcript in the patient. Transfection of constructed minigenes, with or without the mutation, into COS-1 cells confirmed that the mutant minigene was responsible for a mRNA species alternatively spliced at an activated cryptic 5 splice site 88 bp upstream from the 3 end of exon 6. Our data suggest that the C to A mutation at the penultimate nucleotide of exon 6 of the CYP27 gene not only causes the deficiency in the sterol 27-hydroxylase activity, but also partially leads to alternative pre-mRNA splicing of the gene. To our knowledge, this is the first report regarding effects on pre-mRNA splicing of a mutation at the -2 position of a 5 splice site.</text>
+      <annotation id="1">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="190" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Xanthomatosis, Cerebrotendinous</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D019294</infon>
+        <infon key="umls_cui">C0238052</infon>
+        <location offset="301" length="3"/>
+        <text>CTX</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="418" length="3"/>
+        <text>was</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">disease</infon>
+        <infon key="preferred_form">Wiskott-Aldrich Syndrome</infon>
+        <infon key="original_resource">CTD (MESH)</infon>
+        <infon key="native_id">D014923</infon>
+        <infon key="umls_cui">C0043194</infon>
+        <location offset="1108" length="3"/>
+        <text>was</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>
